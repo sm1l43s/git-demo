@@ -8,3 +8,5 @@ two log
 non fast-forward merge
 
 merge conflict situation
+
+new line
