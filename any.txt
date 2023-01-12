@@ -4,3 +4,5 @@ add new line
 new content aaasas
 
 two log
+
+non fast-forward merge
