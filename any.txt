@@ -6,3 +6,5 @@ new content aaasas
 two log
 
 non fast-forward merge
+
+new line
